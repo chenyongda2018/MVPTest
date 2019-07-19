@@ -3,15 +3,15 @@
 
 ## Project Structure  
 
-- view  
- -  ILoginView  
+- view
+  - ILoginView  
  
 - presenter  
- - ILoginPresenter  
- - LoginPresenter  
+  - ILoginPresenter  
+  - LoginPresenter  
  
 - model  
- - IUser  
- - User  
+  - IUser  
+  - User  
 
 ![](https://ws1.sinaimg.cn/large/9c347cably1g55ilbzyj7j20u01pojtr.jpg) 
