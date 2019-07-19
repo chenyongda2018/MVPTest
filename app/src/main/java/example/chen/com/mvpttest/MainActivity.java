@@ -12,7 +12,7 @@ import example.chen.com.mvpttest.presenter.LoginPresenter;
 import example.chen.com.mvpttest.view.ILoginView;
 
 public class MainActivity extends AppCompatActivity implements ILoginView {
-    
+
     ILoginPresenter mILoginPresenter;
     EditText mUserEmailEt;
     EditText mUserPasswdEt;
